@@ -2,7 +2,7 @@
 
 ## Data Engineering Capstone Project
 
-### Project Summary
+### Project Summary1
 
 This project objective aims to build a data pipeline for a corporate eCommerce company to move the data from the S3 bucket to stage tables and generate a star schema model ready for analysts to create dashboards and generate insights to raise sales.
 
